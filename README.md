@@ -1,6 +1,4 @@
-﻿# Embedded Learning Projects
-
-## Структура проектов:
+# Embedded Learning Projects## Структура проектов:
 
 - \rduino/\ - проекты на Arduino UNO
 - \esp32/\ - проекты на ESP32 (ESP-IDF)
